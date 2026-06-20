@@ -15,49 +15,49 @@ https://stream.zeno.fm/d16n50mkzhhvv
 #EXTINF:-1 group-title="Radio Favourites" tvg-logo="",Radio SBFM Pare-pare
 https://stream-151.zeno.fm/pb3pe7y994zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwYjNwZTd5OTk0enV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im8wbVBUdmE4U0plV1hxYlBLSDNLSEEiLCJpYXQiOjE3NjkwMTc1ODIsImV4cCI6MTc2OTAxNzY0Mn0.cgBmyjjzEe4BXb6JhR3iwZSSP4lY_QKaL36VXL--vXw
 
-#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",2000s
+#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Mettaswara 2000s
 https://mettaswara.com:8700//theonest
 
-#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Smooth
+#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Mettaswara Smooth
 https://mettaswara.com:8700//smooth
 
-#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Softrock
+#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Mettaswara Softrock
 https://mettaswara.com:8700//slowrock
 
-#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Relax
+#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Mettaswara Relax
 https://mettaswara.com:8700//metta
 
-#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",90-an
+#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Mettaswara 90-an
 https://mettaswara.com:8700/metta90
 
-#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Indo 2000s
+#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Mettaswara Indo 2000s
 https://mettaswara.com:8700/indo00
 
-#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",2010s
+#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Mettaswara 2010s
 https://mettaswara.com:8700//m2010
 
-#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Indonesia Song
+#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Mettaswara Indonesia Song
 https://mettaswara.com:8700/indo
 
 #EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Indonesia Gold
 https://mettaswara.com:8700//disco
 
-#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Hits Song
+#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Mettaswara Hits Song
 https://mettaswara.com:8700/hits
 
-#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Love Song
+#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Mettaswara Love Song
 https://mettaswara.com:8700/love
 
-#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Dangdut
+#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Mettaswara Dangdut
 https://mettaswara.com:8700/d4d
 
-#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Campursari
+#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Mettaswara Campursari
 https://mettaswara.com:8700/cps
 
-#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Java
+#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Mettaswara Java
 https://mettaswara.com:8700//java
 
-#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Slow Notalgia
+#EXTINF:-1 group-title="Radio Mettaswara" tvg-logo="",Mettaswara Slow Notalgia
 https://mettaswara.com:8700/slow
 
 #EXTINF:-1 group-title="Radio Bandung" tvg-logo="",Radio Zora 90.1 FM Bandung
@@ -140,6 +140,9 @@ https://stream-node2.rri.co.id/streaming/40/9340/jazz.mp3
 
 #EXTINF:-1 group-title="Radio Grup RRI" tvg-logo="",RRI Voice of Indonesia
 https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
+
+#EXTINF:-1 group-title="Radio Jakarta" tvg-logo="",Radio Prambors Jakarta
+https://n03-us.rcs.revma.com/h77wwp48kxcwv?rj-ttl=5&rj-tok=AAABnuKVX7EAhZ9SuXp91kP_tA
 
 #EXTINF:-1 group-title="Radio Jakarta" tvg-logo="",Radio Tebet Media Jakarta
 https://stream-ssl.arenastreaming.com:8066/stream
@@ -539,4 +542,3 @@ https://b.alhastream.com:5052/radio
 
 #EXTINF:-1 group-title="Radio Surabaya" tvg-logo="",Radio Tidar Sakti FM Batu
 https://pu.klikhost.com/proxy/tidarsakti/stream
-
