@@ -306,6 +306,9 @@ https://stream.yaomi.blog/galuhfm
 #EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Suara Salira Tasikmalaya
 https://live.suarasalira.com/listen/suarasalira/stream
 
+#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Elshanda FM 96.2 Indramayu
+https://streaming.elshandafm.com/live
+
 #EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Pitaloka FM Ciamis
 https://stream.pasopatiradio.com/pitaloka
 
@@ -347,6 +350,9 @@ https://stream.zeno.fm/ar3nv92ahfhvv
 
 #EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Start Tangerang
 http://listen.staradio1073fm.net:8070/stream
+
+#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Cahayu 96.9 FM Cirebon
+https://c4.siar.us:8099/live
 
 #EXTINF:-1 group-title="Radio Semarang" tvg-logo="",Radio Gajah Mada Semarang
 https://server.radioimeldafm.co.id:8040/gajahmadafm
@@ -488,6 +494,9 @@ https://radioislamindonesia.com/radiomuadz.mp3
 
 #EXTINF:-1 group-title="Radio Sunnah Indonesia" tvg-logo="",101.4 FM - Radio Dakwah Syariah
 https://audiostreamserver.indonesiastreaming.com/rdsfm
+
+#EXTINF:-1 group-title="Radio Sunnah Indonesia" tvg-logo="", Radio Kita FM 94.3 Cirebon
+https://broadcast.yufid.com/listen/radio_sunnah_cirebon/kitafm
 
 #EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Voks Surabaya
 https://svara-stream.radioddns.net/voks_surabaya
