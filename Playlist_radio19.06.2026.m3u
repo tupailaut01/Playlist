@@ -63,6 +63,12 @@ https://mettaswara.com:8700/slow
 #EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio Zora 90.1 FM Bandung
 https://s1.gntr.net/listen/zora_radio/zora
 
+#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio MGT Bandung
+https://stream-n1.gntr.net/listen/mgtradio/mgtradio
+
+#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio PRFM Bandung
+https://sx.alhastream.com:8280/prfm
+
 #EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio Voks Bandung
 https://a7.alhastream.com:4000/radio
 
@@ -80,6 +86,9 @@ https://void.idserverhost.com/8054/stream
 
 #EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio XChannel Bandung
 https://stream.xradio.co.id/xchannelbdg
+
+#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio Cakra Bandung
+https://n04-us.rcs.revma.com/chuzgcqd6k3vv?rj-ttl=5&rj-tok=AAABnz86zmoAZTNw9ANijaxaAA
 
 #EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio K-LITE 107.1 FM Bandung
 https://svara-stream.radioddns.net/bandung_klitefm_acc
@@ -143,6 +152,9 @@ https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
 
 #EXTINF:-1 group-title="Radio 04. Jakarta" tvg-logo="",Radio Prambors Jakarta
 https://n03-us.rcs.revma.com/h77wwp48kxcwv?rj-ttl=5&rj-tok=AAABnuKVX7EAhZ9SuXp91kP_tA
+
+#EXTINF:-1 group-title="Radio 04. Jakarta" tvg-logo="",Radio THE ROCKIN LIFE JAKARTA
+https://n05.radiojar.com/7csmg90fuqruv?rj-ttl=5&rj-tok=AAABnz9SQhwALlZkpV19gUUzzA
 
 #EXTINF:-1 group-title="Radio 04. Jakarta" tvg-logo="",Radio Tebet Media Jakarta
 https://stream-ssl.arenastreaming.com:8066/stream
@@ -213,6 +225,9 @@ https://i.klikhost.com/9604/stream
 #EXTINF:-1 group-title="Radio 07. Jogja" tvg-logo="",Radio Dengerin Musik Indonesia Jogja
 https://stream.denger.in/
 
+#EXTINF:-1 group-title="Radio 07. Jogja" tvg-logo="",Radio Geronimo Jogja
+https://ig.idstreamer.com:8090//live
+
 #EXTINF:-1 group-title="Radio 07. Jogja" tvg-logo="",Radio Kotaperak 94,6 FM Jogja
 https://server.adyadigitalteknologi.com:8010/8/;
 
@@ -278,6 +293,9 @@ https://s3.alhastream.com:8440/masfm
 
 #EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Masa Kini Ciamis
 https://ini.radiomasakini.com/listen/rmk/rmk
+
+#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Rama FM Sukabumi
+https://i.klikhost.com/8336/;
 
 #EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Dakta Bekasi
 https://play.urfan.id/?url=https://stream.urfan.id/dakta
@@ -353,6 +371,12 @@ http://listen.staradio1073fm.net:8070/stream
 
 #EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Cahayu 96.9 FM Cirebon
 https://c4.siar.us:8099/live
+
+#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio ADA
+https://adaradio.kradionews.com/listen/adaradio/stream
+
+#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio MANEUVER CILEGON
+https://servidor20-5.brlogic.com:7024/live
 
 #EXTINF:-1 group-title="Radio Semarang" tvg-logo="",Radio Gajah Mada Semarang
 https://server.radioimeldafm.co.id:8040/gajahmadafm
