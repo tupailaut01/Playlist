@@ -294,9 +294,6 @@ https://i.klikhost.com/8336/;
 #EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Dakta Bekasi
 https://play.urfan.id/?url=https://stream.urfan.id/dakta
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio X Channel Serang
-https://stream.xradio.co.id/xchannelsrg
-
 #EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Bens FM 106.2 Ciputat Tangerang Selatan
 https://streaming.bensradio.com:8522/stream
 
@@ -348,8 +345,11 @@ https://live.kradionews.com/listen/kradio/stream
 #EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Losta FM Blitar
 https://stream.zeno.fm/ar3nv92ahfhvv
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Start Tangerang
+#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Star Tangerang
 http://listen.staradio1073fm.net:8070/stream
+
+#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Smooth Tangerang
+https://svara-stream.radioddns.net/jakarta_smoothfm_mp3
 
 #EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Cahayu Cirebon
 https://c4.siar.us:8099/live
@@ -359,6 +359,18 @@ https://adaradio.kradionews.com/listen/adaradio/stream
 
 #EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio MANEUVER Cilegon
 https://servidor20-5.brlogic.com:7024/live
+
+#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Mandiri Cilegon
+https://i.klikhost.com:8116/stream
+
+#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio SAM Cilegon
+https://i.klikhost.com:8076/stream
+
+#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio X Channel Serang
+https://stream.xradio.co.id/xchannelsrg
+
+#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Harmony Serang
+https://c1.siar.us/radio/8270/stream
 
 #EXTINF:-1 group-title="Radio Semarang" tvg-logo="",Radio Gajah Mada Semarang
 https://server.radioimeldafm.co.id:8040/gajahmadafm
