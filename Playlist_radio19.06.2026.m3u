@@ -321,18 +321,6 @@ https://streaming.elshandafm.com/live
 #EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Pitaloka FM Ciamis
 https://stream.pasopatiradio.com/pitaloka
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Malaysia - Era Sarawak
-https://n10.rcs.revma.com/bkqfqkrbv4uvv/10_6dkcmkt5m85u02/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Malaysia - Asyik FM
-http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Malaysia - Nasional FM
-http://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FM.mp3
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Malaysia - Klasik FM
-http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3
-
 #EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio BRAYA Bogor
 https://live.brayaradio.com/listen/brayaradio/stream
 
@@ -372,8 +360,8 @@ https://i.klikhost.com:8076/stream
 #EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio X Channel Serang
 https://stream.xradio.co.id/xchannelsrg
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Harmony Serang
-https://c1.siar.us/radio/8270/stream
+#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Ninetysix Palembang
+https://c4.siar.us:8950/stream
 
 #EXTINF:-1 group-title="Radio Semarang" tvg-logo="",Radio Gajah Mada Semarang
 https://server.radioimeldafm.co.id:8040/gajahmadafm
@@ -545,3 +533,24 @@ https://b.alhastream.com:5052/radio
 
 #EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Tidar Sakti FM Batu
 https://pu.klikhost.com/proxy/tidarsakti/stream
+
+#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Era Sarawak
+https://n10.rcs.revma.com/bkqfqkrbv4uvv/10_6dkcmkt5m85u02/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio Malaysia" tvg-logo="",Radio Asyik FM Kuala Lumpur
+http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3
+
+#EXTINF:-1 group-title="Radio Malaysia" tvg-logo="",Radio Nasional FM Kuala Lumpur
+http://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FM.mp3
+
+#EXTINF:-1 group-title="Radio Malaysia" tvg-logo="",Radio Klasik FM Kuala Lumpur
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3
+
+#EXTINF:-1 group-title="Radio Malaysia" tvg-logo="",Radio Hitz.FM Kuala Lumpur
+https://n06-us.rcs.revma.com/488kt4sbv4uvv?rj-ttl=5&rj-tok=AAABn2gqqb0Ar1A29KetBJjqcw
+
+#EXTINF:-1 group-title="Radio Malaysia" tvg-logo="",Radio KL FM Kuala Lumpur
+https://28103.live.streamtheworld.com/KL_FMAAC.aac
+
+#EXTINF:-1 group-title="Radio Malaysia" tvg-logo="",Radio Sinar FM Kuala Lumpur
+https://n09-us.rcs.revma.com/azatk0tbv4uvv?rj-ttl=5&rj-tok=AAABn2guqXsAuduWzHuwheLRLA
