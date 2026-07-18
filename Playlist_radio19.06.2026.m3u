@@ -249,6 +249,19 @@ https://ig.idstreamer.com:8090/live
 #EXTINF:-1 group-title="Radio 07. Jogja" tvg-logo="",Radio Campursari Jogja
 https://a8.siar.us/listen/campursari/stream
 
+#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Martha Station 101.3 FM Kota Tasikmalaya
+https://stream.martha-radio.com/listen/martha_fm/martha
+
+#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Amandit FM Kandangan Kalimantan
+https://b.alhastream.com:5035/radio
+
+#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Dradio Jambi
+https://i.klikhost.com/8132/;
+
+#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Mandala FM 90.1
+Bandar Lampung
+https://stream1.bskmedia.net/listen/jaringan_lampung/mandalafm
+
 #EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Bercahaya LPPL Cilacap
 https://bercahayafm.my.id:8000/live
 
@@ -362,6 +375,9 @@ https://stream.xradio.co.id/xchannelsrg
 
 #EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Ninetysix Palembang
 https://c4.siar.us:8950/stream
+
+#EXTINF:-1 group-title="Radio Semarang" tvg-logo="",Radio C Radio Semarang
+http://mettaswara.com:8700/cradio
 
 #EXTINF:-1 group-title="Radio Semarang" tvg-logo="",Radio Gajah Mada Semarang
 https://server.radioimeldafm.co.id:8040/gajahmadafm
@@ -503,6 +519,18 @@ https://radioislamindonesia.com/radiomuadz.mp3
 
 #EXTINF:-1 group-title="Radio Kajian Islam Indonesia" tvg-logo="", Radio Kita FM 94.3 Cirebon
 https://broadcast.yufid.com/listen/radio_sunnah_cirebon/kitafm
+
+#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Mayangkara FM 101 Kota Blitar
+https://streaming.radiopatria.net/listen/mayangkara_101_fm/mayangkara
+
+#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio El Victor FM 93.30 Surabaya
+https://b.alhastream.com:5005/radio
+
+#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Suara Giri FM 98.4 Gresik
+https://azuracast.suzananet.com/listen/suara_giri_fm/radio
+
+#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Prosalina Jember 
+https://i.klikhost.com/8618/stream
 
 #EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Voks Surabaya
 https://svara-stream.radioddns.net/voks_surabaya
