@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Beyond Voice Indonesia
+#EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Beyond Voice Indonesia Balikpapan
 https://mettaswara.com:8700//beyond_indo
 
 #EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Pensiunan Tangerang Selatan
@@ -14,6 +14,36 @@ https://stream.zeno.fm/d16n50mkzhhvv
 
 #EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio SBFM Pare-pare SulSel
 https://stream-151.zeno.fm/pb3pe7y994zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwYjNwZTd5OTk0enV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im8wbVBUdmE4U0plV1hxYlBLSDNLSEEiLCJpYXQiOjE3NjkwMTc1ODIsImV4cCI6MTc2OTAxNzY0Mn0.cgBmyjjzEe4BXb6JhR3iwZSSP4lY_QKaL36VXL--vXw
+
+#EXTINF:-1 group-title="Radio 02. Semarang" tvg-logo="",Radio iSwara Semarang
+https://n0e.radiojar.com/fr9zqhv80k8uv?rj-ttl=5&rj-tok=AAABn3STDhMAWYujWZiehvlcPg
+
+#EXTINF:-1 group-title="Radio 02. Semarang" tvg-logo="",Radio C Radio Semarang
+http://mettaswara.com:8700/cradio
+
+#EXTINF:-1 group-title="Radio 02. Semarang" tvg-logo="",Radio Gajah Mada Semarang
+https://server.radioimeldafm.co.id:8040/gajahmadafm
+
+#EXTINF:-1 group-title="Radio 02. Semarang" tvg-logo="",Radio Vocaradio Semarang
+https://streaming.celindo.id:8220/vocaradio
+
+#EXTINF:-1 group-title="Radio 02. Semarang" tvg-logo="",Radio Fit Semarang
+https://stream-ssl.arenastreaming.com:8002/fit_semarang
+
+#EXTINF:-1 group-title="Radio 02. Semarang" tvg-logo="",Radio UP Semarang
+https://stream.tujuhcahaya.com/listen/radio_upradio_semarang/radio.mp3
+
+#EXTINF:-1 group-title="Radio 02. Semarang" tvg-logo="",Radio One Voice Semarang
+https://a7.siar.us/listen/onevoice/stream
+
+#EXTINF:-1 group-title="Radio 02. Semarang" tvg-logo="",Radio Swara Semarang
+https://server.radioimeldafm.co.id/radio/8010/swarasemarang
+
+#EXTINF:-1 group-title="Radio 02. Semarang" tvg-logo="",Radio Kis FM Semarang
+https://stream.radiokis.id/kisfm2
+
+#EXTINF:-1 group-title="Radio 02. Semarang" tvg-logo="",RRI PRO-4 801 AM Semarang
+https://stream-node0.rri.co.id/streaming/16/9016/rrisemarangpro4.mp3
 
 #EXTINF:-1 group-title="Radio 03. Mettaswara" tvg-logo="",Mettaswara 2000s
 https://mettaswara.com:8700//theonest
@@ -60,92 +90,8 @@ https://mettaswara.com:8700//java
 #EXTINF:-1 group-title="Radio 03. Mettaswara" tvg-logo="",Mettaswara Slow Notalgia
 https://mettaswara.com:8700/slow
 
-#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio Zora 90.1 FM Bandung
-https://s1.gntr.net/listen/zora_radio/zora
-
-#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio MGT Bandung
-https://stream-n1.gntr.net/listen/mgtradio/mgtradio
-
-#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio PRFM Bandung
-https://sx.alhastream.com:8280/prfm
-
-#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio Voks Bandung
-https://a7.alhastream.com:4000/radio
-
-#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio KLCBS Bandung
-https://streaming.klcbsofficial.com/listen/klcbs/klcbs
-
-#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio Ardan Bandung
-https://stream.rcs.revma.com/ugpyzu9n5k3vv
-
-#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio Fit Bandung
-https://sukmben.radiogentara.com/radio/8140/stream
-
-#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio Asmaraku Bandung
-https://void.idserverhost.com/8054/stream
-
-#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio XChannel Bandung
-https://stream.xradio.co.id/xchannelbdg
-
-#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio Cakra Bandung
-https://n04-us.rcs.revma.com/chuzgcqd6k3vv?rj-ttl=5&rj-tok=AAABnz86zmoAZTNw9ANijaxaAA
-
-#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio K-LITE 107.1 FM Bandung
-https://svara-stream.radioddns.net/bandung_klitefm_acc
-
-#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",RRI Pro 1 Bandung
-https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro1.mp3
-
-#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",RRI Pro 4 Bandung
-https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro4.mp3
-
-#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",RRI Pro 2 Bandung
-https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro2.mp3
-
-#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio Rajawali Bandung
-http://128.199.251.123:1027/;
-
-#EXTINF:-1 group-title="Radio Grup i-swara" tvg-logo="",i-Radio Jakarta
+#EXTINF:-1 group-title="Radio 04. Jakarta" tvg-logo="",Radio iSwara Jakarta
 https://n06.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABkpgfN-4Aa0hCvbo_2Vwz6w
-
-#EXTINF:-1 group-title="Radio Grup i-swara" tvg-logo="",i-Radio Bandung
-https://stream.radiojar.com/u6ppe6hswk8uv
-
-#EXTINF:-1 group-title="Radio Grup i-swara" tvg-logo="",i-Radio Jogja
-https://stream.radiojar.com/hnf2cbv80k8uv
-
-#EXTINF:-1 group-title="Radio Grup i-swara" tvg-logo="",i-Radio Medan
-https://stream.radiojar.com/hkuevehswk8uv
-
-#EXTINF:-1 group-title="Radio Grup i-swara" tvg-logo="",i-Radio Makasar
-https://stream.radiojar.com/seqmzfeu5k8uv
-
-#EXTINF:-1 group-title="Radio Grup i-swara" tvg-logo="",i-Radio Banjarmasin
-https://stream.radiojar.com/qfqd2aw80k8uv
-
-#EXTINF:-1 group-title="Radio Grup RRI" tvg-logo="",RRI Pro 1 91.2 FM Jakarta
-https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
-
-#EXTINF:-1 group-title="Radio Grup RRI" tvg-logo="",RRI Pro 2 105.0 FM Jakarta
-http://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3
-
-#EXTINF:-1 group-title="Radio Grup RRI" tvg-logo="",RRI Pro 3 88.8 FM Jakarta
-https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
-
-#EXTINF:-1 group-title="Radio Grup RRI" tvg-logo="",RRI Pro 4 92.8 FM Jakarta
-https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro4.mp3
-
-#EXTINF:-1 group-title="Radio Grup RRI" tvg-logo="",RRI Pro 5 Jakarta
-https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
-
-#EXTINF:-1 group-title="Radio Grup RRI" tvg-logo="",RRI Kanal Kenangan
-https://stream-node2.rri.co.id/streaming/40/9340/memori.mp3
-
-#EXTINF:-1 group-title="Radio Grup RRI" tvg-logo="",RRI Kanal Jazz
-https://stream-node2.rri.co.id/streaming/40/9340/jazz.mp3
-
-#EXTINF:-1 group-title="Radio Grup RRI" tvg-logo="",RRI Voice of Indonesia
-https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
 
 #EXTINF:-1 group-title="Radio 04. Jakarta" tvg-logo="",Radio BVoice Radio Binus Jakarta
 https://a1.siar.us/radio/8450/radio.mp3
@@ -153,7 +99,7 @@ https://a1.siar.us/radio/8450/radio.mp3
 #EXTINF:-1 group-title="Radio 04. Jakarta" tvg-logo="",Radio Prambors Jakarta
 https://n03-us.rcs.revma.com/h77wwp48kxcwv?rj-ttl=5&rj-tok=AAABnuKVX7EAhZ9SuXp91kP_tA
 
-#EXTINF:-1 group-title="Radio 04. Jakarta" tvg-logo="",Radio THE ROCKIN LIFE JAKARTA
+#EXTINF:-1 group-title="Radio 04. Jakarta" tvg-logo="",Radio The Rockin Life Jakarta
 https://n05.radiojar.com/7csmg90fuqruv?rj-ttl=5&rj-tok=AAABnz9SQhwALlZkpV19gUUzzA
 
 #EXTINF:-1 group-title="Radio 04. Jakarta" tvg-logo="",Radio Tebet Media Jakarta
@@ -201,7 +147,7 @@ https://das-edge14-live365-dal02.cdnstream.com/a06375
 #EXTINF:-1 group-title="Radio 04. Jakarta" tvg-logo="",Radio Campursari Jakarta
 https://streaming.campursarifm.com/listen/campursari/campursari892
 
-#EXTINF:-1 group-title="Radio 04. Jakarta" tvg-logo="",Radio Kis 95.1 FM Jakarta
+#EXTINF:-1 group-title="Radio 04. Jakarta" tvg-logo="",Radio Kis FM Jakarta
 http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8
 
 #EXTINF:-1 group-title="Radio 04. Jakarta" tvg-logo="",Radio Smart 95.9 FM Jakarta
@@ -218,6 +164,102 @@ http://202.147.199.101:8000/;
 
 #EXTINF:-1 group-title="Radio 04. Jakarta" tvg-logo="",Radio Cosmopolitan 90.4 FM Jakarta
 http://stream.radiojar.com/u7d8heq3bnzuv
+
+#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio iSwara Bandung
+https://stream.radiojar.com/u6ppe6hswk8uv
+
+#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio Zora 90.1 FM Bandung
+https://s1.gntr.net/listen/zora_radio/zora
+
+#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio MGT Bandung
+https://stream-n1.gntr.net/listen/mgtradio/mgtradio
+
+#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio PRFM Bandung
+https://sx.alhastream.com:8280/prfm
+
+#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio Voks Bandung
+https://a7.alhastream.com:4000/radio
+
+#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio KLCBS Bandung
+https://streaming.klcbsofficial.com/listen/klcbs/klcbs
+
+#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio Ardan Bandung
+https://stream.rcs.revma.com/ugpyzu9n5k3vv
+
+#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio Fit Bandung
+https://sukmben.radiogentara.com/radio/8140/stream
+
+#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio Asmaraku Bandung
+https://void.idserverhost.com/8054/stream
+
+#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio XChannel Bandung
+https://stream.xradio.co.id/xchannelbdg
+
+#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio Cakra Bandung
+https://n04-us.rcs.revma.com/chuzgcqd6k3vv?rj-ttl=5&rj-tok=AAABnz86zmoAZTNw9ANijaxaAA
+
+#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio K-LITE 107.1 FM Bandung
+https://svara-stream.radioddns.net/bandung_klitefm_acc
+
+#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",RRI Pro 1 Bandung
+https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro1.mp3
+
+#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",RRI Pro 4 Bandung
+https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro4.mp3
+
+#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",RRI Pro 2 Bandung
+https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro2.mp3
+
+#EXTINF:-1 group-title="Radio 05. Bandung" tvg-logo="",Radio Rajawali Bandung
+http://128.199.251.123:1027/;
+
+#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Mayangkara FM 101 Kota Blitar
+https://streaming.radiopatria.net/listen/mayangkara_101_fm/mayangkara
+
+#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio El Victor FM 93.30 Surabaya
+https://b.alhastream.com:5005/radio
+
+#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Suara Giri FM 98.4 Gresik
+https://azuracast.suzananet.com/listen/suara_giri_fm/radio
+
+#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Prosalina Jember 
+https://i.klikhost.com/8618/stream
+
+#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Voks Surabaya
+https://svara-stream.radioddns.net/voks_surabaya
+
+#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Andika Kediri
+https://r5.siar.us:1057/andikafm
+
+#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Classynet Surabaya
+https://streaming.classynetradio.com/radio/8000/classySD
+
+#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Suara Surabaya
+https://c5.siar.us/proxy/ssfm/stream
+
+#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Wijaya FM 103.5 FM Surabaya
+http://wijayafm.onlivestreaming.net:9880/stream?
+
+#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio X Channel FM Surabaya
+https://stream.xradio.co.id/xchannelsby
+
+#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio M Malang
+https://c4.siar.us/proxy/mradio/stream?_=1
+
+#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio City Guide FM Malang
+https://cityguide911fm.com/radio/audio.mp3
+
+#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Kosmonita FM Malang
+https://b.alhastream.com:5052/radio
+
+#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Tidar Sakti FM Batu
+https://pu.klikhost.com/proxy/tidarsakti/stream
+
+#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Losta FM Blitar
+https://stream.zeno.fm/ar3nv92ahfhvv
+
+#EXTINF:-1 group-title="Radio 07. Jogja" tvg-logo="",Radio iSwara Jogja
+https://stream.radiojar.com/hnf2cbv80k8uv
 
 #EXTINF:-1 group-title="Radio 07. Jogja" tvg-logo="",Radio BEST FM Jogja
 https://i.klikhost.com/9604/stream
@@ -249,158 +291,119 @@ https://ig.idstreamer.com:8090/live
 #EXTINF:-1 group-title="Radio 07. Jogja" tvg-logo="",Radio Campursari Jogja
 https://a8.siar.us/listen/campursari/stream
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Martha Station 101.3 FM Kota Tasikmalaya
+#EXTINF:-1 group-title="Radio Grup RRI" tvg-logo="",RRI Pro 1 91.2 FM Jakarta
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
+
+#EXTINF:-1 group-title="Radio Grup RRI" tvg-logo="",RRI Pro 2 105.0 FM Jakarta
+http://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3
+
+#EXTINF:-1 group-title="Radio Grup RRI" tvg-logo="",RRI Pro 3 88.8 FM Jakarta
+https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
+
+#EXTINF:-1 group-title="Radio Grup RRI" tvg-logo="",RRI Pro 4 92.8 FM Jakarta
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro4.mp3
+
+#EXTINF:-1 group-title="Radio Grup RRI" tvg-logo="",RRI Pro 5 Jakarta
+https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
+
+#EXTINF:-1 group-title="Radio Grup RRI" tvg-logo="",RRI Kanal Kenangan
+https://stream-node2.rri.co.id/streaming/40/9340/memori.mp3
+
+#EXTINF:-1 group-title="Radio Grup RRI" tvg-logo="",RRI Kanal Jazz
+https://stream-node2.rri.co.id/streaming/40/9340/jazz.mp3
+
+#EXTINF:-1 group-title="Radio Grup RRI" tvg-logo="",RRI Voice of Indonesia
+https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
+
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Martha Station 101.3 FM Kota Tasikmalaya
 https://stream.martha-radio.com/listen/martha_fm/martha
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Amandit FM Kandangan Kalimantan
-https://b.alhastream.com:5035/radio
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Dradio Jambi
-https://i.klikhost.com/8132/;
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Mandala Bandar Lampung
-https://stream1.bskmedia.net/listen/jaringan_lampung/mandalafm
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Bercahaya LPPL Cilacap
-https://bercahayafm.my.id:8000/live
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Utari 101 FM Cilacap
-https://s5.alhastream.com:8220/radio
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Yes - 104.2 FM Cilacap
-https://stream-288.zeno.fm/vfckq3qrt5quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2ZmNrcTNxcnQ1cXV2IiwiaG9zdCI6InN0cmVhbS0yODguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhNQUtZZXdtU2hDOEdaSi1STGFUNXciLCJpYXQiOjE3NzgxMTkzODQsImV4cCI6MTc3ODExOTQ0NH0.4goyyr7rucUcNP_OsfjS7bB_TeNneK0rWKksRkRX2dk
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Thomson Cilacap
-https://i.klikhost.com/thomsoncilacap/stream
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio SBS Purwokerto
-https://stream.pasopatiradio.com/sbsfm
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio YASIKA FM Purwokerto
-https://i.klikhost.com/9608/stream
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Pasopati Majenang Cilacap
-https://stream.pasopatiradio.com/pasopati
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Gita FM Kroya Cilacap
-https://a3.siar.us:8200/stream
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio ESKA FM 106.1 Sidareja Cilacap
-https://free.rcast.net/1034655
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Tsania FM 101.8 Bumiayu
-https://a10.siar.us/radio/8280/radio.mp3
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",RRI PRO 1 Purwokerto
-https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro1.mp3
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",RRI PRO 2 Purwokerto
-https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro2.mp3
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Masfm Kebumen
-https://s3.alhastream.com:8440/masfm
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Masa Kini Ciamis
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Masa Kini Ciamis
 https://ini.radiomasakini.com/listen/rmk/rmk
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Rama FM Sukabumi
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Rama FM Sukabumi
 https://i.klikhost.com/8336/;
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Dakta Bekasi
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Dakta Bekasi
 https://play.urfan.id/?url=https://stream.urfan.id/dakta
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Bens FM 106.2 Ciputat Tangerang Selatan
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Bens FM 106.2 Ciputat TangSel
 https://streaming.bensradio.com:8522/stream
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio KEILOVE FM Tasikmalaya
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Keilove FM Tasikmalaya
 https://s3.alhastream.com:8440/keilove
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio KIARA Tasikmalaya
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Kiara Tasikmalaya
 https://stream.kiararadio.com/listen/kiararadio/kiararadio
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Style Tasikmalaya
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Style Tasikmalaya
 https://stream.stylefmtasik.com/listen/stylefmtasik/stream
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Radio Galuh Tasikmalaya
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Radio Galuh Tasikmalaya
 https://stream.yaomi.blog/galuhfm
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Suara Salira Tasikmalaya
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Suara Salira Tasikmalaya
 https://live.suarasalira.com/listen/suarasalira/stream
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Elshanda FM 96.2 Indramayu
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Elshanda FM 96.2 Indramayu
 https://streaming.elshandafm.com/live
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Pitaloka FM Ciamis
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Pitaloka FM Ciamis
 https://stream.pasopatiradio.com/pitaloka
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio BRAYA Bogor
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Braya Bogor
 https://live.brayaradio.com/listen/brayaradio/stream
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio DNA FM Jepara
-https://sc.dnafm.net/listen/dnafm/live
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio KISI FM Bogor
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Kisi FM Bogor
 http://live.kisifm.com/kisifm
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio KRADIO HSS, Kalimantan Selatan
-https://live.kradionews.com/listen/kradio/stream
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Losta FM Blitar
-https://stream.zeno.fm/ar3nv92ahfhvv
-
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Star Tangerang
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Star Tangerang
 http://listen.staradio1073fm.net:8070/stream
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Smooth Tangerang
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Smooth Tangerang
 https://svara-stream.radioddns.net/jakarta_smoothfm_mp3
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Cahayu Cirebon
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Cahayu Cirebon
 https://c4.siar.us:8099/live
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio ADA Kalimantan Selatan
-https://adaradio.kradionews.com/listen/adaradio/stream
+#EXTINF:-1 group-title="Radio Grup Ngapak" tvg-logo="",Radio Bercahaya LPPL Cilacap
+https://bercahayafm.my.id:8000/live
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio MANEUVER Cilegon
-https://servidor20-5.brlogic.com:7024/live
+#EXTINF:-1 group-title="Radio Grup Ngapak" tvg-logo="",Radio Utari 101 FM Cilacap
+https://s5.alhastream.com:8220/radio
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Mandiri Cilegon
-https://i.klikhost.com:8116/stream
+#EXTINF:-1 group-title="Radio Grup Ngapak" tvg-logo="",Radio Yes - 104.2 FM Cilacap
+https://stream-288.zeno.fm/vfckq3qrt5quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2ZmNrcTNxcnQ1cXV2IiwiaG9zdCI6InN0cmVhbS0yODguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhNQUtZZXdtU2hDOEdaSi1STGFUNXciLCJpYXQiOjE3NzgxMTkzODQsImV4cCI6MTc3ODExOTQ0NH0.4goyyr7rucUcNP_OsfjS7bB_TeNneK0rWKksRkRX2dk
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio SAM Cilegon
-https://i.klikhost.com:8076/stream
+#EXTINF:-1 group-title="Radio Grup Ngapak" tvg-logo="",Radio Thomson Cilacap
+https://i.klikhost.com/thomsoncilacap/stream
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio X Channel Serang
-https://stream.xradio.co.id/xchannelsrg
+#EXTINF:-1 group-title="Radio Grup Ngapak" tvg-logo="",Radio SBS Purwokerto
+https://stream.pasopatiradio.com/sbsfm
 
-#EXTINF:-1 group-title="Radio 02. Mixed" tvg-logo="",Radio Ninetysix Palembang
-https://c4.siar.us:8950/stream
+#EXTINF:-1 group-title="Radio Grup Ngapak" tvg-logo="",Radio YASIKA FM Purwokerto
+https://i.klikhost.com/9608/stream
 
-#EXTINF:-1 group-title="Radio Semarang" tvg-logo="",Radio C Radio Semarang
-http://mettaswara.com:8700/cradio
+#EXTINF:-1 group-title="Radio Grup Ngapak" tvg-logo="",Radio Pasopati Majenang Cilacap
+https://stream.pasopatiradio.com/pasopati
 
-#EXTINF:-1 group-title="Radio Semarang" tvg-logo="",Radio Gajah Mada Semarang
-https://server.radioimeldafm.co.id:8040/gajahmadafm
+#EXTINF:-1 group-title="Radio Grup Ngapak" tvg-logo="",Radio Gita FM Kroya Cilacap
+https://a3.siar.us:8200/stream
 
-#EXTINF:-1 group-title="Radio Semarang" tvg-logo="",Radio Vocaradio Semarang
-https://streaming.celindo.id:8220/vocaradio
+#EXTINF:-1 group-title="Radio Grup Ngapak" tvg-logo="",Radio ESKA FM 106.1 Sidareja Cilacap
+https://free.rcast.net/1034655
 
-#EXTINF:-1 group-title="Radio Semarang" tvg-logo="",Radio Fit Semarang
-https://stream-ssl.arenastreaming.com:8002/fit_semarang
+#EXTINF:-1 group-title="Radio Grup Ngapak" tvg-logo="",Radio Tsania FM 101.8 Bumiayu
+https://a10.siar.us/radio/8280/radio.mp3
 
-#EXTINF:-1 group-title="Radio Semarang" tvg-logo="",Radio UP Semarang
-https://stream.tujuhcahaya.com/listen/radio_upradio_semarang/radio.mp3
+#EXTINF:-1 group-title="Radio Grup Ngapak" tvg-logo="",RRI PRO 1 Purwokerto
+https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro1.mp3
 
-#EXTINF:-1 group-title="Radio Semarang" tvg-logo="",Radio One Voice Semarang
-https://a7.siar.us/listen/onevoice/stream
+#EXTINF:-1 group-title="Radio Grup Ngapak" tvg-logo="",RRI PRO 2 Purwokerto
+https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro2.mp3
 
-#EXTINF:-1 group-title="Radio Semarang" tvg-logo="",Radio Swara Semarang
-https://server.radioimeldafm.co.id/radio/8010/swarasemarang
-
-#EXTINF:-1 group-title="Radio Semarang" tvg-logo="",Radio Kis FM Semarang
-https://stream.radiokis.id/kisfm2
-
-#EXTINF:-1 group-title="Radio Semarang" tvg-logo="",RRI PRO-4 801 AM Semarang
-https://stream-node0.rri.co.id/streaming/16/9016/rrisemarangpro4.mp3
+#EXTINF:-1 group-title="Radio Grup Ngapak" tvg-logo="",Radio Masfm Kebumen
+https://s3.alhastream.com:8440/masfm
 
 #EXTINF:-1 group-title="Radio Solo Raya" tvg-logo="",Radio Suara Salatiga - 99.9 FM
 https://icecast.salatiga.go.id:8443/stream.ogg
@@ -510,56 +513,11 @@ https://radioislamindonesia.com/mutiaraquran.mp3
 #EXTINF:-1 group-title="Radio Kajian Islam Indonesia" tvg-logo="",Radio Muslim Yogyakarta
 https://streaming.radiomuslim.com/;stream/1
 
-#EXTINF:-1 group-title="Radio Kajian Islam Indonesia" tvg-logo="",Radio Hidayah 103.4 FM Pekanbaru
-https://radioislamindonesia.com/radiohidayah.mp3
-
 #EXTINF:-1 group-title="Radio Kajian Islam Indonesia" tvg-logo="",Radio Muadz 94.3 FM Kendari
 https://radioislamindonesia.com/radiomuadz.mp3
 
 #EXTINF:-1 group-title="Radio Kajian Islam Indonesia" tvg-logo="", Radio Kita FM 94.3 Cirebon
 https://broadcast.yufid.com/listen/radio_sunnah_cirebon/kitafm
-
-#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Mayangkara FM 101 Kota Blitar
-https://streaming.radiopatria.net/listen/mayangkara_101_fm/mayangkara
-
-#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio El Victor FM 93.30 Surabaya
-https://b.alhastream.com:5005/radio
-
-#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Suara Giri FM 98.4 Gresik
-https://azuracast.suzananet.com/listen/suara_giri_fm/radio
-
-#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Prosalina Jember 
-https://i.klikhost.com/8618/stream
-
-#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Voks Surabaya
-https://svara-stream.radioddns.net/voks_surabaya
-
-#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Andika Kediri
-https://r5.siar.us:1057/andikafm
-
-#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Classynet Surabaya
-https://streaming.classynetradio.com/radio/8000/classySD
-
-#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Suara Surabaya
-https://c5.siar.us/proxy/ssfm/stream
-
-#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Wijaya FM 103.5 FM Surabaya
-http://wijayafm.onlivestreaming.net:9880/stream?
-
-#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio X Channel FM Surabaya
-https://stream.xradio.co.id/xchannelsby
-
-#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio M Malang
-https://c4.siar.us/proxy/mradio/stream?_=1
-
-#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio City Guide FM Malang
-https://cityguide911fm.com/radio/audio.mp3
-
-#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Kosmonita FM Malang
-https://b.alhastream.com:5052/radio
-
-#EXTINF:-1 group-title="Radio 06. Surabaya" tvg-logo="",Radio Tidar Sakti FM Batu
-https://pu.klikhost.com/proxy/tidarsakti/stream
 
 #EXTINF:-1 group-title="Radio Malaysia" tvg-logo="",Radio Era Sarawak
 https://n10.rcs.revma.com/bkqfqkrbv4uvv/10_6dkcmkt5m85u02/playlist.m3u8
@@ -581,3 +539,60 @@ https://28103.live.streamtheworld.com/KL_FMAAC.aac
 
 #EXTINF:-1 group-title="Radio Malaysia" tvg-logo="",Radio Sinar FM Kuala Lumpur
 https://n09-us.rcs.revma.com/azatk0tbv4uvv?rj-ttl=5&rj-tok=AAABn2guqXsAuduWzHuwheLRLA
+
+#EXTINF:-1 group-title="Radio Sumatra" tvg-logo="",Radio Classy FM Padang
+https://c4.siar.us:10340/stream.mp3
+
+#EXTINF:-1 group-title="Radio Sumatra" tvg-logo="",Radio Dradio Jambi
+https://i.klikhost.com/8132/;
+
+#EXTINF:-1 group-title="Radio Sumatra" tvg-logo="",Radio Mandala Bandar Lampung
+https://stream1.bskmedia.net/listen/jaringan_lampung/mandalafm
+
+#EXTINF:-1 group-title="Radio Sumatra" tvg-logo="",Radio Ninetysix Palembang
+https://c4.siar.us:8950/stream
+
+#EXTINF:-1 group-title="Radio Sumatra" tvg-logo="",Radio iSwara Medan
+https://stream.radiojar.com/hkuevehswk8uv
+
+#EXTINF:-1 group-title="Radio Sumatra" tvg-logo="",Radio Hidayah 103.4 FM Pekanbaru
+https://radioislamindonesia.com/radiohidayah.mp3
+
+#EXTINF:-1 group-title="Radio Kalimantan" tvg-logo="",Radio Amandit FM Kandangan 
+https://b.alhastream.com:5035/radio
+
+#EXTINF:-1 group-title="Radio Kalimantan" tvg-logo="",Radio Ada Radio FM KalSel
+https://adaradio.kradionews.com/listen/adaradio/stream
+
+#EXTINF:-1 group-title="Radio Kalimantan" tvg-logo="",Radio KRadio FM Kandangan
+https://live.kradionews.com/listen/kradio/stream
+
+#EXTINF:-1 group-title="Radio Kalimantan" tvg-logo="",Radio Suara Mahakam FM Samarinda
+https://i.klikhost.com/8010/stream
+
+#EXTINF:-1 group-title="Radio Kalimantan" tvg-logo="",Radio Heartline FM Samarinda
+https://stream.heartline.co.id:8443/heartline_samarinda
+
+#EXTINF:-1 group-title="Radio Kalimantan" tvg-logo="",Radio Delima FM Samarinda
+https://stream1.bskmedia.net/listen/samarinda/delimafm
+
+#EXTINF:-1 group-title="Radio Kalimantan" tvg-logo="",Radio iSwara Banjarmasin
+https://stream.radiojar.com/qfqd2aw80k8uv
+
+#EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio DNA FM Jepara
+https://sc.dnafm.net/listen/dnafm/live
+
+#EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio MANEUVER Cilegon
+https://servidor20-5.brlogic.com:7024/live
+
+#EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio Mandiri Cilegon
+https://i.klikhost.com:8116/stream
+
+#EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio SAM Cilegon
+https://i.klikhost.com:8076/stream
+
+#EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio X Channel Serang
+https://stream.xradio.co.id/xchannelsrg
+
+#EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio iSwara Makasar
+https://stream.radiojar.com/seqmzfeu5k8uv
