@@ -3,16 +3,19 @@
 #EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Beyond Voice Indonesia Balikpapan
 https://mettaswara.com:8700//beyond_indo
 
-#EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Mettaswara Slow Notalgia
+#EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Mettaswara Indonesia Song
+https://mettaswara.com:8700/indo
+
+#EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Mettaswara Slow Notalgia
 https://mettaswara.com:8700/slow
 
 #EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Pensiunan TangSel
 https://wms.klikhost.com:2020/stream/radiopensiunan/;
 
-#EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Mettaswara 90-an
+#EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Mettaswara 90-an
 https://mettaswara.com:8700/metta90
 
-#EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Mettaswara Indo 2000s
+#EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Mettaswara Indo 2000s
 https://mettaswara.com:8700/indo00
 
 #EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Golden Hits Jakarta
@@ -98,6 +101,18 @@ http://202.147.199.101:8000/;
 
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Cosmopolitan 90.4 FM Jakarta
 http://stream.radiojar.com/u7d8heq3bnzuv
+
+#EXTINF:-1 group-title="Radio 03. Bandung" tvg-logo="",Radio Bradio956.fm Bandung
+https://stream.rcs.revma.com/9yp8b9pd6k3vv
+
+#EXTINF:-1 group-title="Radio 03. Bandung" tvg-logo="",Radio Paramuda Bandung
+https://i.klikhost.com/8332/;
+
+#EXTINF:-1 group-title="Radio 03. Bandung" tvg-logo="",Radio Suara Indah Bandung
+https://suaraindahfm.com:8443/live
+
+#EXTINF:-1 group-title="Radio 03. Bandung" tvg-logo="",Radio Swara Emas Bandung
+https://uk3freenew.listen2myradio.com/live.mp3?typeportmount=s1_18195_stream_478211540
 
 #EXTINF:-1 group-title="Radio 03. Bandung" tvg-logo="",Radio iSwara Bandung
 https://stream.radiojar.com/u6ppe6hswk8uv
@@ -294,6 +309,18 @@ https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro2.mp3
 #EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Masfm Kebumen
 https://s3.alhastream.com:8440/masfm
 
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Pro Purwakarta 
+https://ig.idstreamer.com:8020/stream
+
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Mix FM Cimahi
+https://stream.929mixradio.com/live
+
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Jusyan Sumedang
+https://r2.siar.us:9720/radiojusyan
+
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Purnama FM Tasikmalaya
+https://stream.purnamafmtasik.com/listen/purnamafm/purnama
+
 #EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Martha Station 101.3 FM Kota Tasikmalaya
 https://stream.martha-radio.com/listen/martha_fm/martha
 
@@ -360,9 +387,6 @@ https://mettaswara.com:8700//metta
 #EXTINF:-1 group-title="Radio 09. Mettaswara" tvg-logo="",Mettaswara 2010s
 https://mettaswara.com:8700//m2010
 
-#EXTINF:-1 group-title="Radio 09. Mettaswara" tvg-logo="",Mettaswara Indonesia Song
-https://mettaswara.com:8700/indo
-
 #EXTINF:-1 group-title="Radio 09. Mettaswara" tvg-logo="",Mettaswara Hits Song
 https://mettaswara.com:8700/hits
 
@@ -377,6 +401,9 @@ https://mettaswara.com:8700/cps
 
 #EXTINF:-1 group-title="Radio 09. Mettaswara" tvg-logo="",Mettaswara Java
 https://mettaswara.com:8700//java
+
+#EXTINF:-1 group-title="Radio 10. Kalimantan" tvg-logo="",Radio Sonora 96.7 FM Pontianak
+https://cast3.asurahosting.com/proxy/radios29/stream
 
 #EXTINF:-1 group-title="Radio 10. Kalimantan" tvg-logo="",Radio Amandit FM Kandangan 
 https://b.alhastream.com:5035/radio
@@ -590,3 +617,6 @@ https://stream.xradio.co.id/xchannelsrg
 
 #EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio iSwara Makasar
 https://stream.radiojar.com/seqmzfeu5k8uv
+
+#EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio Megaswara FM Serang 
+https://server.adyadigitalteknologi.com:8010/2/;
