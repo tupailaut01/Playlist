@@ -36,7 +36,7 @@ https://stream.zeno.fm/vwyezwx6998uv
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio iSwara Jakarta
 https://n06.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABkpgfN-4Aa0hCvbo_2Vwz6w
 
-#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio BVoice Radio Binus Jakarta
+#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio BVoice Binus Jakarta
 https://a1.siar.us/radio/8450/radio.mp3
 
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Prambors Jakarta
@@ -279,7 +279,7 @@ https://stream.radiokis.id/kisfm2
 #EXTINF:-1 group-title="Radio 06. Semarang" tvg-logo="",RRI Pro-4 801 AM Semarang
 https://stream-node0.rri.co.id/streaming/16/9016/rrisemarangpro4.mp3
 
-#EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Bercahaya LPPL Cilacap
+#EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Bercahaya (LPPL) Cilacap
 https://bercahayafm.my.id:8000/live
 
 #EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Utari 101 FM Cilacap
@@ -468,16 +468,16 @@ https://a1.siar.us/listen/rowasiafm/rowasiafm.mp3
 #EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",Radio Pas FM Solo - 90.9 FM
 https://i.klikhost.com/8266/stream.aac
 
-#EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",RSPD LPPL Klaten - 91.6 FM
+#EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",RSPD (LPPL) Klaten - 91.6 FM
 https://play.urfan.id/?url=https://jgj.jogjastreamers.com/lpplklaten
 
-#EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",Radio Merapi LPPL Boyolali - 93.6 FM
+#EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",Radio Merapi (LPPL) Boyolali - 93.6 FM
 http://merapifm.boyolali.go.id/stream
 
 #EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",Radio Giri Swara Wonogiri - 94.0 FM
 https://play.urfan.id/?url=http://rgs.us.myradio.web.id:8000/rgs
 
-#EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",Radio Buana Asri LPPL Sragen - 94.7 FM
+#EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",Radio Buana Asri (LPPL) Sragen - 94.7 FM
 https://stream-eu-nc.arenastreaming.com:6477/stream
 
 #EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",RRI Pro-1 Surakarta - 101.0 FM
@@ -489,7 +489,7 @@ https://stream-node1.rri.co.id/streaming/19/9219/rrisurakartapro2.mp3
 #EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",RRI PRO-4 Surakarta - 95.2 FM
 https://stream-node1.rri.co.id/streaming/19/9219/rrisurakartapro4.mp3
 
-#EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",Radio Swiba LPPL Karanganyar - 96.3 FM
+#EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",Radio Swiba (LPPL) Karanganyar - 96.3 FM
 https://s5.alhastream.com/radio/8180/radio
 
 #EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",Radio AAS FM (Rapendiks) Solo - 97.0 FM
