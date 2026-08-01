@@ -183,6 +183,12 @@ https://r5.siar.us:1057/andikafm
 #EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Classynet Surabaya
 https://streaming.classynetradio.com/radio/8000/classySD
 
+#EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Gen FM 103.1 Surabaya
+https://ic.mari.co.id:8443/gensbyfm
+
+#EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Jeje Surabaya
+https://i.klikhost.com:8026/;
+
 #EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Suara Surabaya
 https://c5.siar.us/proxy/ssfm/stream
 
@@ -201,7 +207,7 @@ https://play-93fm.madiunkota.go.id/live
 #EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Mas FM 104.5 Malang
 https://svara-stream.radioddns.net/malang_masfm_
 
-#EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio M Malang
+#EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio M Surabaya
 https://c4.siar.us/proxy/mradio/stream?_=1
 
 #EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio City Guide FM Malang
