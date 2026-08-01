@@ -30,9 +30,6 @@ https://stream-289.zeno.fm/d16n50mkzhhvv
 #EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Mettaswara Indonesia Gold
 https://mettaswara.com:8700//disco
 
-#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Komunitas Suara Lawas FM
-https://stream.zeno.fm/vwyezwx6998uv
-
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio iSwara Jakarta
 https://n06.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABkpgfN-4Aa0hCvbo_2Vwz6w
 
@@ -58,7 +55,7 @@ https://ssg.streamingmurah.com:8078/;
 https://sonora-radio.arenastreaming.com/8130/stream
 
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Delta FM Jakarta
-http://s1.cloudmu.id:8030/radio.mp3
+https://n01-us.rcs.revma.com/k02rmq48kxcwv?rj-ttl=5&rj-tok=AAABn7uJXhkA95ce2faQNNaB1Q
 
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Gen FM Jakarta
 http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8
@@ -219,6 +216,9 @@ https://stream.zeno.fm/ar3nv92ahfhvv
 #EXTINF:-1 group-title="Radio 05. Jogja" tvg-logo="",Radio iSwara Jogja
 https://stream.radiojar.com/hnf2cbv80k8uv
 
+#EXTINF:-1 group-title="Radio 05. Jogja" tvg-logo="",Radio Silaturahim Yogyakarta - 972 AM
+https://ssg.streamingmurah.com:9300/;?1773784063371
+
 #EXTINF:-1 group-title="Radio 05. Jogja" tvg-logo="",Radio Polaris FM Jogja
 https://i.klikhost.com/9604/stream
 
@@ -255,8 +255,8 @@ https://n0e.radiojar.com/fr9zqhv80k8uv?rj-ttl=5&rj-tok=AAABn3STDhMAWYujWZiehvlcP
 #EXTINF:-1 group-title="Radio 06. Semarang" tvg-logo="",Radio C Semarang
 http://mettaswara.com:8700/cradio
 
-#EXTINF:-1 group-title="Radio 06. Semarang" tvg-logo="",Radio Gajah Mada Semarang
-https://server.radioimeldafm.co.id:8040/gajahmadafm
+#EXTINF:-1 group-title="Radio 06. Semarang" tvg-logo="",Radio Gajahmada Semarang
+https://server.radioimeldafm.co.id/radio/8040/gajahmadafm
 
 #EXTINF:-1 group-title="Radio 06. Semarang" tvg-logo="",Radio Vocaradio Semarang
 https://streaming.celindo.id:8220/vocaradio
@@ -323,9 +323,6 @@ https://stream.pasopatiradio.com/rajawalifm
 
 #EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Pro Purwakarta 
 https://ig.idstreamer.com:8020/stream
-
-#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Mix FM Cimahi
-https://stream.929mixradio.com/live
 
 #EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Jusyan Sumedang
 https://r2.siar.us:9720/radiojusyan
@@ -542,9 +539,6 @@ https://mass.urfan.id/download.mp3
 
 #EXTINF:-1 group-title="Radio Kajian Islam Indonesia" tvg-logo="",Radio Isykarima Wonogiri - 99.9 FM
 https://ssg.streamingmurah.com:8406/stream.mp3
-
-#EXTINF:-1 group-title="Radio Kajian Islam Indonesia" tvg-logo="",Radio Silaturahim Yogyakarta - 972 AM
-https://ssg.streamingmurah.com:9300/;?1773784063371
 
 #EXTINF:-1 group-title="Radio Kajian Islam Indonesia" tvg-logo="",Radio Al-Manshuroh Cilacap
 http://cilacap.radioislam.my.id:11162/stream
