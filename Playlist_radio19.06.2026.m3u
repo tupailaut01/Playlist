@@ -289,7 +289,10 @@ https://stream.radiokis.id/kisfm2
 https://stream-node0.rri.co.id/streaming/16/9016/rrisemarangpro4.mp3
 
 #EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Bercahaya (LPPL) Cilacap
-https://bercahayafm.my.id:8000/live
+https://bercahayafm.my.id/listen/stream/live
+
+#EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Tiara Net Sampang, Cilacap
+https://usa3.fastcast4u.com/proxy/goldtea?mp=/1
 
 #EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Utari 101 FM Cilacap
 https://s5.alhastream.com:8220/radio
@@ -324,8 +327,23 @@ https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro1.mp3
 #EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",RRI Pro 2 Purwokerto
 https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro2.mp3
 
+#EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Darussalam Tegal
+https://a.tunzilla.com/http://uk14freenew.listen2myradio.com:18209/;
+
 #EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Suara Banjarnegara
 https://i.klikhost.com/8102/;
+
+#EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Bravo Kebumen
+https://stream.swadesifm.com/radio/8090/radio.mp3
+
+#EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Swadesi Kebumen
+https://stream.swadesifm.com/radio/8100/radio.mp3
+
+#EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Binamas FM Purworejo 
+https://s3.alhastream.com:8420/radio
+
+#EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio JCC FM Wonosobo 
+https://ssg.streamingmurah.com:9494/stream
 
 #EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Rajawali FM Purwakarta
 https://stream.pasopatiradio.com/rajawalifm
@@ -335,6 +353,9 @@ https://ig.idstreamer.com:8020/stream
 
 #EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Jusyan Sumedang
 https://r2.siar.us:9720/radiojusyan
+
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Purbasora FM Tasikmalaya
+https://s5.alhastream.com:8050/radio
 
 #EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Purnama FM Tasikmalaya
 https://stream.purnamafmtasik.com/listen/purnamafm/purnama
