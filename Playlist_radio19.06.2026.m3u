@@ -33,6 +33,9 @@ https://mettaswara.com:8700//disco
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio iSwara Jakarta
 https://n06.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABkpgfN-4Aa0hCvbo_2Vwz6w
 
+#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio V Jakarta
+https://a.tunzilla.com/http://202.147.199.100:8000/;stream.nsv
+
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Prambors Jakarta
 https://n03-us.rcs.revma.com/h77wwp48kxcwv?rj-ttl=5&rj-tok=AAABnuKVX7EAhZ9SuXp91kP_tA
 
@@ -102,6 +105,9 @@ http://stream.radiojar.com/u7d8heq3bnzuv
 #EXTINF:-1 group-title="Radio 03. Bandung" tvg-logo="",Radio BRadio FM Bandung
 https://stream.rcs.revma.com/9yp8b9pd6k3vv
 
+#EXTINF:-1 group-title="Radio 03. Bandung" tvg-logo="",Radio Delta FM Bandung
+https://stream-pd-bdg.dimasalfaridzi.my.id/delta
+
 #EXTINF:-1 group-title="Radio 03. Bandung" tvg-logo="",Radio Paramuda Bandung
 https://i.klikhost.com/8332/;
 
@@ -155,6 +161,12 @@ https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro2.mp3
 
 #EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio MTB FM 102.7 Surabaya
 https://stream.mtbfm.co.id/listen/1027_mtb_fm_surabaya/radio.mp3
+
+#EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Sritanjung FM Banyuwangi
+https://a3.alhastream.com:5115/radio
+
+#EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio DJ FM Surabaya
+https://svara-stream.radioddns.net/surabaya_djfm_
 
 #EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Mayangkara FM 101 Blitar
 https://streaming.radiopatria.net/listen/mayangkara_101_fm/mayangkara
@@ -225,6 +237,9 @@ https://stream.zeno.fm/ar3nv92ahfhvv
 #EXTINF:-1 group-title="Radio 05. Jogja" tvg-logo="",Radio iSwara Jogja
 https://stream.radiojar.com/hnf2cbv80k8uv
 
+#EXTINF:-1 group-title="Radio 05. Jogja" tvg-logo="",Radio UNISI FM Jogja
+https://studio1.indostreamers.com:8002/stream/1/
+
 #EXTINF:-1 group-title="Radio 05. Jogja" tvg-logo="",Radio Silaturahim Yogyakarta - 972 AM
 https://ssg.streamingmurah.com:9300/;?1773784063371
 
@@ -260,6 +275,9 @@ https://stream.zenolive.com/8g7rxgp3a1duv
 
 #EXTINF:-1 group-title="Radio 06. Semarang" tvg-logo="",Radio iSwara Semarang
 https://n0e.radiojar.com/fr9zqhv80k8uv?rj-ttl=5&rj-tok=AAABn3STDhMAWYujWZiehvlcPg
+
+#EXTINF:-1 group-title="Radio 06. Semarang" tvg-logo="",Radio Imelda Semarang
+https://server.radioimeldafm.co.id/listen/imeldafm/imeldafm
 
 #EXTINF:-1 group-title="Radio 06. Semarang" tvg-logo="",Radio C Semarang
 http://mettaswara.com:8700/cradio
@@ -330,8 +348,8 @@ https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro2.mp3
 #EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Darussalam Tegal
 https://a.tunzilla.com/http://uk14freenew.listen2myradio.com:18209/;
 
-#EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Suara Banjarnegara
-https://i.klikhost.com/8102/;
+#EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Radesatama FM Banjarnegara
+https://stream.swadesifm.com/radio/8130/radio.mp3
 
 #EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Bravo Kebumen
 https://stream.swadesifm.com/radio/8090/radio.mp3
