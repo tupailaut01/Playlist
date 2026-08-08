@@ -363,6 +363,9 @@ https://s3.alhastream.com:8420/radio
 #EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio JCC FM Wonosobo 
 https://ssg.streamingmurah.com:9494/stream
 
+#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Stara Kuningan
+https://stream.pasopatiradio.com/kosfm
+
 #EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Rajawali FM Purwakarta
 https://stream.pasopatiradio.com/rajawalifm
 
@@ -462,7 +465,7 @@ https://cast3.asurahosting.com/proxy/radios29/stream
 #EXTINF:-1 group-title="Radio 10. Kalimantan" tvg-logo="",Radio Amandit FM Kandangan 
 https://b.alhastream.com:5035/radio
 
-#EXTINF:-1 group-title="Radio 10. Kalimantan" tvg-logo="",Radio Ada Radio FM KalSel
+#EXTINF:-1 group-title="Radio 10. Kalimantan" tvg-logo="",Radio Ada FM KalSel
 https://adaradio.kradionews.com/listen/adaradio/stream
 
 #EXTINF:-1 group-title="Radio 10. Kalimantan" tvg-logo="",Radio KRadio FM Kandangan
@@ -498,7 +501,7 @@ https://radioislamindonesia.com/radiohidayah.mp3
 #EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",Radio Suara Salatiga
 https://icecast.salatiga.go.id:8443/stream.ogg
 
-#EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",Radio Solo Radio Surakarta
+#EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",Radio Solo Surakarta
 https://play.urfan.id/?url=https://jgj.jogjastreamers.com/soloradio151515stereo
 
 #EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",Radio POP FM Sragen - 88.8 FM
