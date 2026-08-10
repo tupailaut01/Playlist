@@ -33,9 +33,6 @@ https://mettaswara.com:8700//disco
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio iSwara Jakarta
 https://n06.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABkpgfN-4Aa0hCvbo_2Vwz6w
 
-#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio V Jakarta
-https://a.tunzilla.com/http://202.147.199.100:8000/;stream.nsv
-
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Prambors Jakarta
 https://n03-us.rcs.revma.com/h77wwp48kxcwv?rj-ttl=5&rj-tok=AAABnuKVX7EAhZ9SuXp91kP_tA
 
@@ -45,17 +42,11 @@ https://n05.radiojar.com/7csmg90fuqruv?rj-ttl=5&rj-tok=AAABnz9SQhwALlZkpV19gUUzz
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Tebet Media Jakarta
 https://stream-ssl.arenastreaming.com:8066/stream
 
-#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Female Jakarta
-http://onlineradiobox.com/json/id/female/play
-
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Elshinta Jakarta
 https://stream-ssl.arenastreaming.com:8000/jakarta
 
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Camajaya FM Jakarta
 https://ssg.streamingmurah.com:8078/;
-
-#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Sonora FM Jakarta
-https://sonora-radio.arenastreaming.com/8130/stream
 
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Delta FM Jakarta
 https://n01-us.rcs.revma.com/k02rmq48kxcwv?rj-ttl=5&rj-tok=AAABn7uJXhkA95ce2faQNNaB1Q
@@ -84,9 +75,6 @@ https://stream.xradio.co.id/xchanneljkt
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Campursari Jakarta
 https://streaming.campursarifm.com/listen/campursari/campursari892
 
-#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Kis FM Jakarta
-http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8
-
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Smart FM Jakarta
 https://mediacp-sg1.arenastreaming.com:8006/stream
 
@@ -98,9 +86,6 @@ https://streaming.classynetradio.com/listen/classy_netradio_indonesia/classySD
 
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Trijaya Jakarta
 http://202.147.199.101:8000/;
-
-#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Cosmopolitan 90.4 FM Jakarta
-http://stream.radiojar.com/u7d8heq3bnzuv
 
 #EXTINF:-1 group-title="Radio 03. Bandung" tvg-logo="",Radio BRadio FM Bandung
 https://stream.rcs.revma.com/9yp8b9pd6k3vv
@@ -275,9 +260,6 @@ https://stream.zenolive.com/8g7rxgp3a1duv
 
 #EXTINF:-1 group-title="Radio 06. Semarang" tvg-logo="",Radio iSwara Semarang
 https://n0e.radiojar.com/fr9zqhv80k8uv?rj-ttl=5&rj-tok=AAABn3STDhMAWYujWZiehvlcPg
-
-#EXTINF:-1 group-title="Radio 06. Semarang" tvg-logo="",Radio Imelda Semarang
-https://server.radioimeldafm.co.id/listen/imeldafm/imeldafm
 
 #EXTINF:-1 group-title="Radio 06. Semarang" tvg-logo="",Radio C Semarang
 http://mettaswara.com:8700/cradio
@@ -683,3 +665,21 @@ https://stream.radiojar.com/seqmzfeu5k8uv
 
 #EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio Megaswara FM Serang 
 https://server.adyadigitalteknologi.com:8010/2/;
+
+#EXTINF:-1 group-title="Radio Wanita" tvg-logo="",Radio Imelda Semarang
+https://server.radioimeldafm.co.id/listen/imeldafm/imeldafm
+
+#EXTINF:-1 group-title="Radio Wanita" tvg-logo="",Radio Cosmopolitan 90.4 FM Jakarta
+http://stream.radiojar.com/u7d8heq3bnzuv
+
+#EXTINF:-1 group-title="Radio Wanita" tvg-logo="",Radio V Jakarta
+https://a.tunzilla.com/http://202.147.199.100:8000/;stream.nsv
+
+#EXTINF:-1 group-title="Radio Wanita" tvg-logo="",Radio Sonora FM Jakarta
+https://sonora-radio.arenastreaming.com/8130/stream
+
+#EXTINF:-1 group-title="Radio Wanita" tvg-logo="",Radio Female Jakarta
+http://onlineradiobox.com/json/id/female/play
+
+#EXTINF:-1 group-title="Radio Wanita" tvg-logo="",Radio Kis FM Jakarta
+http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8
