@@ -30,6 +30,12 @@ https://stream-289.zeno.fm/d16n50mkzhhvv
 #EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Mettaswara Indonesia Gold
 https://mettaswara.com:8700//disco
 
+#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Z Jakarta
+https://svara-stream.radioddns.net/jakarta_z999fm_aac
+
+#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Brava Jakarta
+https://n07.radiojar.com/5k7t0rq3bnzuv?1786444428=&rj-tok=AAABn_Br3E0AWWXkn_3zVLKeMQ&rj-ttl=5
+
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio iSwara Jakarta
 https://n06.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABkpgfN-4Aa0hCvbo_2Vwz6w
 
@@ -146,6 +152,15 @@ https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro2.mp3
 
 #EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio MTB FM 102.7 Surabaya
 https://stream.mtbfm.co.id/listen/1027_mtb_fm_surabaya/radio.mp3
+
+#EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Patria Blitar
+https://streaming.radiopatria.net/radio/8000/patria
+
+#EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Bahana FM Ngawi
+https://c3.siar.us/proxy/bahanafm/stream
+
+#EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Media Surabaya
+https://new.radiosolo.ru/indonesia/media-fm/icecast.audio
 
 #EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Sritanjung FM Banyuwangi
 https://a3.alhastream.com:5115/radio
