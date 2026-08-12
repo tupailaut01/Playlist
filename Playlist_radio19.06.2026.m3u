@@ -153,6 +153,9 @@ https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro2.mp3
 #EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio MTB FM 102.7 Surabaya
 https://stream.mtbfm.co.id/listen/1027_mtb_fm_surabaya/radio.mp3
 
+#EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Motion Malang
+https://mediacp-sg1.arenastreaming.com/stream/kalimaya
+
 #EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Patria Blitar
 https://streaming.radiopatria.net/radio/8000/patria
 
@@ -347,6 +350,9 @@ https://a.tunzilla.com/http://uk14freenew.listen2myradio.com:18209/;
 
 #EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Radesatama FM Banjarnegara
 https://stream.swadesifm.com/radio/8130/radio.mp3
+
+#EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Banjar FM Banjarnegara
+https://stream.pasopatiradio.com/banjarfm
 
 #EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Bravo Kebumen
 https://stream.swadesifm.com/radio/8090/radio.mp3
