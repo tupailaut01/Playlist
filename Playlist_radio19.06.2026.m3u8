@@ -12,7 +12,7 @@ https://mettaswara.com:8700/slow
 #EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Pensiunan TangSel
 https://wms.klikhost.com:2020/stream/radiopensiunan/;
 
-#EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Mettaswara 90-an
+#EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Mettaswara 1990-an
 https://mettaswara.com:8700/metta90
 
 #EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Mettaswara Indo 2000s
@@ -159,6 +159,9 @@ https://mediacp-sg1.arenastreaming.com/stream/kalimaya
 #EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Patria Blitar
 https://streaming.radiopatria.net/radio/8000/patria
 
+#EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Persada FM Blitar
+https://radio.persadablitar.id/stream
+
 #EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Bahana FM Ngawi
 https://c3.siar.us/proxy/bahanafm/stream
 
@@ -182,9 +185,6 @@ https://audiostreamserver.indonesiastreaming.com/ts3fm
 
 #EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio El Victor FM 93.30 Surabaya
 https://b.alhastream.com:5005/radio
-
-#EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Suara Giri FM 98.4 Gresik
-https://azuracast.suzananet.com/listen/suara_giri_fm/radio
 
 #EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Prosalina Jember 
 https://i.klikhost.com/8618/stream
@@ -237,6 +237,9 @@ https://pu.klikhost.com/proxy/tidarsakti/stream
 #EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Losta FM Blitar
 https://stream.zeno.fm/ar3nv92ahfhvv
 
+#EXTINF:-1 group-title="Radio 05. Jogja" tvg-logo="",Radio Dengerin Musik Indonesia Jogja
+https://stream.denger.in/
+
 #EXTINF:-1 group-title="Radio 05. Jogja" tvg-logo="",Radio iSwara Jogja
 https://stream.radiojar.com/hnf2cbv80k8uv
 
@@ -248,9 +251,6 @@ https://ssg.streamingmurah.com:9300/;?1773784063371
 
 #EXTINF:-1 group-title="Radio 05. Jogja" tvg-logo="",Radio Polaris FM Jogja
 https://i.klikhost.com/9604/stream
-
-#EXTINF:-1 group-title="Radio 05. Jogja" tvg-logo="",Radio Dengerin Musik Indonesia Jogja
-https://stream.denger.in/
 
 #EXTINF:-1 group-title="Radio 05. Jogja" tvg-logo="",Radio Kotaperak FM Jogja
 https://server.adyadigitalteknologi.com:8010/8/;
@@ -462,9 +462,6 @@ https://mettaswara.com:8700/cps
 #EXTINF:-1 group-title="Radio 09. Mettaswara" tvg-logo="",Mettaswara Java
 https://mettaswara.com:8700//java
 
-#EXTINF:-1 group-title="Radio 10. Kalimantan" tvg-logo="",Radio Sonora 96.7 FM Pontianak
-https://cast3.asurahosting.com/proxy/radios29/stream
-
 #EXTINF:-1 group-title="Radio 10. Kalimantan" tvg-logo="",Radio Amandit FM Kandangan 
 https://b.alhastream.com:5035/radio
 
@@ -501,10 +498,10 @@ https://stream.radiojar.com/hkuevehswk8uv
 #EXTINF:-1 group-title="Radio 11. Sumatra" tvg-logo="",Radio Hidayah 103.4 FM Pekanbaru
 https://radioislamindonesia.com/radiohidayah.mp3
 
-#EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",Radio Suara Salatiga
+#EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",Radio Suara Salatiga 99.9 FM Salatiga
 https://icecast.salatiga.go.id:8443/stream.ogg
 
-#EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",Radio Solo Surakarta
+#EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",Radio Solo 92.9 FM Surakarta
 https://play.urfan.id/?url=https://jgj.jogjastreamers.com/soloradio151515stereo
 
 #EXTINF:-1 group-title="Radio 12. Solo Raya" tvg-logo="",Radio POP FM Sragen - 88.8 FM
@@ -587,6 +584,24 @@ https://stream.zeno.fm/651fqrtbfphvv
 
 #EXTINF:-1 group-title="Radio 13. Group Ninetysix" tvg-logo="",Radio Ninetysix Smooth Song
 https://stream.zeno.fm/3tzytm841xhvv
+
+#EXTINF:-1 group-title="Radio 14. Wanita" tvg-logo="",Radio Imelda Semarang
+https://server.radioimeldafm.co.id/listen/imeldafm/imeldafm
+
+#EXTINF:-1 group-title="Radio 14. Wanita" tvg-logo="",Radio Cosmopolitan 90.4 FM Jakarta
+http://stream.radiojar.com/u7d8heq3bnzuv
+
+#EXTINF:-1 group-title="Radio 14. Wanita" tvg-logo="",Radio V Jakarta
+https://a.tunzilla.com/http://202.147.199.100:8000/;stream.nsv
+
+#EXTINF:-1 group-title="Radio 14. Wanita" tvg-logo="",Radio Sonora FM Jakarta
+https://sonora-radio.arenastreaming.com/8130/stream
+
+#EXTINF:-1 group-title="Radio 14. Wanita" tvg-logo="",Radio Female Jakarta
+http://onlineradiobox.com/json/id/female/play
+
+#EXTINF:-1 group-title="Radio 14. Wanita" tvg-logo="",Radio Kis FM Jakarta
+http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8
 
 #EXTINF:-1 group-title="Radio Kajian Islam Indonesia" tvg-logo="",Radio Mass FM Sragen - 88.0 FM
 https://mass.urfan.id/download.mp3
@@ -686,21 +701,3 @@ https://stream.radiojar.com/seqmzfeu5k8uv
 
 #EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio Megaswara FM Serang 
 https://server.adyadigitalteknologi.com:8010/2/;
-
-#EXTINF:-1 group-title="Radio Wanita" tvg-logo="",Radio Imelda Semarang
-https://server.radioimeldafm.co.id/listen/imeldafm/imeldafm
-
-#EXTINF:-1 group-title="Radio Wanita" tvg-logo="",Radio Cosmopolitan 90.4 FM Jakarta
-http://stream.radiojar.com/u7d8heq3bnzuv
-
-#EXTINF:-1 group-title="Radio Wanita" tvg-logo="",Radio V Jakarta
-https://a.tunzilla.com/http://202.147.199.100:8000/;stream.nsv
-
-#EXTINF:-1 group-title="Radio Wanita" tvg-logo="",Radio Sonora FM Jakarta
-https://sonora-radio.arenastreaming.com/8130/stream
-
-#EXTINF:-1 group-title="Radio Wanita" tvg-logo="",Radio Female Jakarta
-http://onlineradiobox.com/json/id/female/play
-
-#EXTINF:-1 group-title="Radio Wanita" tvg-logo="",Radio Kis FM Jakarta
-http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8
