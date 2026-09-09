@@ -73,7 +73,7 @@ https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8
 https://void.idserverhost.com/8036/stream
 
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio TJ Jakarta
-https://stream-eu-nc.arenastreaming.com:8847/stream
+https://tjradiojakarta.arenastreaming.com:8026/live
 
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio X Channel Jakarta
 https://stream.xradio.co.id/xchanneljkt
@@ -285,9 +285,6 @@ http://mettaswara.com:8700/cradio
 #EXTINF:-1 group-title="Radio 06. Semarang" tvg-logo="",Radio Gajahmada Semarang
 https://server.radioimeldafm.co.id/radio/8040/gajahmadafm
 
-#EXTINF:-1 group-title="Radio 06. Semarang" tvg-logo="",Radio Vocaradio Semarang
-https://streaming.celindo.id:8220/vocaradio
-
 #EXTINF:-1 group-title="Radio 06. Semarang" tvg-logo="",Radio Fit Semarang
 https://stream-ssl.arenastreaming.com:8002/fit_semarang
 
@@ -389,9 +386,6 @@ https://stream.purnamafmtasik.com/listen/purnamafm/purnama
 
 #EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Martha Station 101.3 FM Tasikmalaya
 https://stream.martha-radio.com/listen/martha_fm/martha
-
-#EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Masa Kini Ciamis
-https://ini.radiomasakini.com/listen/rmk/rmk
 
 #EXTINF:-1 group-title="Radio 08. Mixed Jabar" tvg-logo="",Radio Rama FM Sukabumi
 https://i.klikhost.com/8336/;
