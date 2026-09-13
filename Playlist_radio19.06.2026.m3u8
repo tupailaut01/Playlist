@@ -6,6 +6,9 @@ https://mettaswara.com:8700//beyond_indo
 #EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Mettaswara Indonesia Song
 https://mettaswara.com:8700//indo
 
+#EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Classynet FLAC
+https://streaming.classynetradio.com/listen/classy_netradio_indonesia/FLAC
+
 #EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Mettaswara Slow Notalgia
 https://mettaswara.com:8700/slow
 
@@ -87,9 +90,6 @@ https://mediacp-sg1.arenastreaming.com:8006/stream
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Mustang 88.0 FM Jakarta
 http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8
 
-#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Classynet Jakarta
-https://streaming.classynetradio.com/listen/classy_netradio_indonesia/classySD
-
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Trijaya Jakarta
 http://202.147.199.101:8000/;
 
@@ -153,6 +153,9 @@ https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro2.mp3
 #EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio MTB FM 102.7 Surabaya
 https://stream.mtbfm.co.id/listen/1027_mtb_fm_surabaya/radio.mp3
 
+#EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Classynet Surabaya
+https://streaming.classynetradio.com/listen/classy_netradio_indonesia/classyUHD
+
 #EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Motion Malang
 https://mediacp-sg1.arenastreaming.com/stream/kalimaya
 
@@ -194,9 +197,6 @@ https://svara-stream.radioddns.net/voks_surabaya
 
 #EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Andika Kediri
 https://r5.siar.us:1057/andikafm
-
-#EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Classynet Surabaya
-https://streaming.classynetradio.com/radio/8000/classySD
 
 #EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Gen FM 103.1 Surabaya
 https://ic.mari.co.id:8443/gensbyfm
