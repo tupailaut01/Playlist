@@ -36,6 +36,27 @@ https://mettaswara.com:8700//disco
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Z Jakarta
 https://svara-stream.radioddns.net/jakarta_z999fm_aac
 
+#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Hot Jakarta
+https://ic.mari.co.id:8443/hotfm
+
+#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Global Jakarta
+https://proxy.rctiplus.com/?name=http://8.215.206.157:8006/
+
+#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Fourtyfive Jakarta
+https://a5.siar.us/listen/fourtyfiveradio/stream
+
+#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio DFM Jakarta
+https://i.klikhost.com/9000/stream
+
+#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Aje Jakarta
+https://pu.klikhost.com/proxy/arman/stream
+
+#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Alternatif Jakarta
+https://void.idserverhost.com:8016/;
+
+#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio El John Jakarta
+https://pu.klikhost.com/proxy/eljohn/stream
+
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Brava Jakarta
 https://n07.radiojar.com/5k7t0rq3bnzuv?1786444428=&rj-tok=AAABn_Br3E0AWWXkn_3zVLKeMQ&rj-ttl=5
 
@@ -67,7 +88,7 @@ http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8
 https://stream.radiojar.com/rrqf78p3bnzuv.mp3?1729556952
 
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Jak 101 FM Jakarta
-https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8
+https://ic.mari.co.id:8443/jakfm
 
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Most FM Jakarta
 https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8
