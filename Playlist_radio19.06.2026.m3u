@@ -48,8 +48,8 @@ https://a5.siar.us/listen/fourtyfiveradio/stream
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio DFM Jakarta
 https://i.klikhost.com/9000/stream
 
-#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Aje Jakarta
-https://pu.klikhost.com/proxy/arman/stream
+#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio ARB Jakarta
+https://void.idserverhost.com/8018/stream
 
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Alternatif Jakarta
 https://void.idserverhost.com:8016/;
@@ -698,6 +698,12 @@ https://stream-node2.rri.co.id/streaming/40/9340/jazz.mp3
 
 #EXTINF:-1 group-title="Radio Grup RRI" tvg-logo="",RRI Voice of Indonesia
 https://stream-node0.rri.co.id/streaming/25/9125/voi.mp3
+
+#EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio PAS FM Pati
+https://ssg.streamingmurah.com:8886/mp3/;
+
+#EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio Polaris Magelang
+https://i.klikhost.com:9608/stream
 
 #EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio DNA FM Jepara
 https://sc.dnafm.net/listen/dnafm/live
