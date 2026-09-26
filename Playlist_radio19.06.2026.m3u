@@ -24,7 +24,7 @@ https://mettaswara.com:8700/indo00
 #EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Golden Hits Jakarta
 https://i.klikhost.com/8272/stream/
 
-#EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Suara Baumassepe Parepare
+#EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio Suara Baumassepe Parepare Makasar
 https://stream-284.surfernetwork.com/km6olzbpypetv
 
 #EXTINF:-1 group-title="Radio 01. Favourites" tvg-logo="",Radio SB FM Tembang Kenangan
@@ -61,7 +61,7 @@ https://pu.klikhost.com/proxy/eljohn/stream
 https://n07.radiojar.com/5k7t0rq3bnzuv?1786444428=&rj-tok=AAABn_Br3E0AWWXkn_3zVLKeMQ&rj-ttl=5
 
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio iSwara Jakarta
-https://n06.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABkpgfN-4Aa0hCvbo_2Vwz6w
+https://stream.radiojar.com/4ywdgup3bnzuv
 
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Prambors Jakarta
 https://n03-us.rcs.revma.com/h77wwp48kxcwv?rj-ttl=5&rj-tok=AAABnuKVX7EAhZ9SuXp91kP_tA
@@ -113,6 +113,9 @@ http://103.246.184.62:1935/noice_mustangfm/mustangfm/chunklist.m3u8
 
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Trijaya Jakarta
 http://202.147.199.101:8000/;
+
+#EXTINF:-1 group-title="Radio 03. Bandung" tvg-logo="",Radio iSwara Bandung
+https://stream.radiojar.com/u6ppe6hswk8uv
 
 #EXTINF:-1 group-title="Radio 03. Bandung" tvg-logo="",Radio BRadio FM Bandung
 https://stream.rcs.revma.com/9yp8b9pd6k3vv
@@ -254,6 +257,9 @@ https://pu.klikhost.com/proxy/tidarsakti/stream
 
 #EXTINF:-1 group-title="Radio 04. Surabaya" tvg-logo="",Radio Losta FM Blitar
 https://stream.zeno.fm/ar3nv92ahfhvv
+
+#EXTINF:-1 group-title="Radio 05. Jogja" tvg-logo="",Radio Sonora Jogja
+https://mediacp-sg2.arenastreaming.com:8002/stream
 
 #EXTINF:-1 group-title="Radio 05. Jogja" tvg-logo="",Radio Dengerin Musik Indonesia Jogja
 https://stream.denger.in/
@@ -495,6 +501,12 @@ https://stream1.bskmedia.net/listen/samarinda/delimafm
 #EXTINF:-1 group-title="Radio 10. Kalimantan" tvg-logo="",Radio iSwara Banjarmasin
 https://stream.radiojar.com/qfqd2aw80k8uv
 
+#EXTINF:-1 group-title="Radio 10. Kalimantan" tvg-logo="",Radio Sonora Pontianak
+https://mediacp-sg2.arenastreaming.com:8008/stream
+
+#EXTINF:-1 group-title="Radio 11. Sumatra" tvg-logo="",Radio Sonora Palembang
+https://mediacp-sg2.arenastreaming.com:8004/stream
+
 #EXTINF:-1 group-title="Radio 11. Sumatra" tvg-logo="",Radio Maskara Jelita 106.7 FM Lampung
 https://stream1.bskmedia.net/listen/jaringan_lampung/maskara
 
@@ -506,9 +518,6 @@ https://i.klikhost.com/8132/;
 
 #EXTINF:-1 group-title="Radio 11. Sumatra" tvg-logo="",Radio Mandala Bandar Lampung
 https://stream1.bskmedia.net/listen/jaringan_lampung/mandalafm
-
-#EXTINF:-1 group-title="Radio 11. Sumatra" tvg-logo="",Radio iSwara Medan
-https://stream.radiojar.com/hkuevehswk8uv
 
 #EXTINF:-1 group-title="Radio 11. Sumatra" tvg-logo="",Radio Hidayah 103.4 FM Pekanbaru
 https://radioislamindonesia.com/radiohidayah.mp3
@@ -618,6 +627,27 @@ http://onlineradiobox.com/json/id/female/play
 #EXTINF:-1 group-title="Radio 14. Wanita" tvg-logo="",Radio Kis FM Jakarta
 http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8
 
+#EXTINF:-1 group-title="Radio 15. Sulawesi" tvg-logo="",Radio iSwara Makasar
+https://stream.radiojar.com/seqmzfeu5k8uv
+
+#EXTINF:-1 group-title="Radio 15. Sulawesi" tvg-logo="",Radio SB FM Makasar
+https://stream-154.zeno.fm/pb3pe7y994zuv?zs=JcgPbXKjS1uQrNFheNeftw
+
+#EXTINF:-1 group-title="Radio 15. Sulawesi" tvg-logo="",Radio Motion Manado
+https://stream.zeno.fm/8dq1zap87ehvv
+
+#EXTINF:-1 group-title="Radio 15. Sulawesi" tvg-logo="",Radio Trendy Manado
+https://i.klikhost.com/8018/;super.mp3
+
+#EXTINF:-1 group-title="Radio 15. Sulawesi" tvg-logo="",Radio Smart FM Manado
+https://mediacp-sg1.arenastreaming.com:8012/stream
+
+#EXTINF:-1 group-title="Radio 15. Sulawesi" tvg-logo="",Radio Madama Makasar
+https://free.rcast.net/70697?adtonosListenerId=01J8GYM56J2N8ERZ57CMEFVRRY
+
+#EXTINF:-1 group-title="Radio 15. Sulawesi" tvg-logo="",Radio Venus FM Makasar
+https://stream-163.zeno.fm/3wiuocujuobtv
+
 #EXTINF:-1 group-title="Radio Kajian Islam Indonesia" tvg-logo="",Radio Mass FM Sragen - 88.0 FM
 https://mass.urfan.id/download.mp3
 
@@ -716,9 +746,6 @@ https://i.klikhost.com:8076/stream
 
 #EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio X Channel Serang
 https://stream.xradio.co.id/xchannelsrg
-
-#EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio iSwara Makasar
-https://stream.radiojar.com/seqmzfeu5k8uv
 
 #EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio Megaswara FM Serang 
 https://server.adyadigitalteknologi.com:8010/2/;
