@@ -88,7 +88,7 @@ http://103.246.184.62:1935/noice_genfm/genfm/chunklist.m3u8
 https://stream.radiojar.com/rrqf78p3bnzuv.mp3?1729556952
 
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Jak 101 FM Jakarta
-https://ic.mari.co.id:8443/jakfm
+https://wz.mari.co.id:1936/noice_jakfm/jakfm/chunklist_w1312567517.m3u8
 
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Most FM Jakarta
 https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8
