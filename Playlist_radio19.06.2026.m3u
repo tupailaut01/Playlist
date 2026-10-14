@@ -96,9 +96,6 @@ https://void.idserverhost.com/8036/stream
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio TJ Jakarta
 https://tjradiojakarta.arenastreaming.com:8026/live
 
-#EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio X Channel Jakarta
-https://stream.xradio.co.id/xchanneljkt
-
 #EXTINF:-1 group-title="Radio 02. Jakarta" tvg-logo="",Radio Campursari Jakarta
 https://streaming.campursarifm.com/listen/campursari/campursari892
 
@@ -149,9 +146,6 @@ https://sukmben.radiogentara.com/radio/8140/stream
 
 #EXTINF:-1 group-title="Radio 03. Bandung" tvg-logo="",Radio Asmaraku Bandung
 https://void.idserverhost.com/8054/stream
-
-#EXTINF:-1 group-title="Radio 03. Bandung" tvg-logo="",Radio X Channel Bandung
-https://stream.xradio.co.id/xchannelbdg
 
 #EXTINF:-1 group-title="Radio 03. Bandung" tvg-logo="",Radio Cakra Bandung
 https://n04-us.rcs.revma.com/chuzgcqd6k3vv?rj-ttl=5&rj-tok=AAABnz86zmoAZTNw9ANijaxaAA
@@ -218,9 +212,6 @@ https://i.klikhost.com:8026/;
 
 #EXTINF:-1 group-title="Radio 04. Mix Jatim" tvg-logo="",Radio Wijaya FM 103.5 FM Surabaya
 http://wijayafm.onlivestreaming.net:9880/stream?
-
-#EXTINF:-1 group-title="Radio 04. Mix Jatim" tvg-logo="",Radio X Channel FM Surabaya
-https://stream.xradio.co.id/xchannelsby
 
 #EXTINF:-1 group-title="Radio 04. Mix Jatim" tvg-logo="",Radio Suara Probolinggo
 https://s7.alhastream.com/radio/8450/radio
@@ -713,9 +704,6 @@ https://i.klikhost.com:8116/stream
 
 #EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio SAM Cilegon
 https://i.klikhost.com:8076/stream
-
-#EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio X Channel Serang
-https://stream.xradio.co.id/xchannelsrg
 
 #EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio Megaswara FM Serang 
 https://server.adyadigitalteknologi.com:8010/2/;
