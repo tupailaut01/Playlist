@@ -168,6 +168,12 @@ https://stream.mtbfm.co.id/listen/1027_mtb_fm_surabaya/radio.mp3
 #EXTINF:-1 group-title="Radio 04. Mix Jatim" tvg-logo="",Radio Classynet Surabaya
 https://streaming.classynetradio.com/listen/classy_netradio_indonesia/classyUHD
 
+#EXTINF:-1 group-title="Radio 04. Mix Jatim" tvg-logo="",Radio EBS FM Surabaya
+https://azuracast.suzananet.com/listen/ebs_fm/radio
+
+#EXTINF:-1 group-title="Radio 04. Mix Jatim" tvg-logo="",Radio Istara FM Surabaya
+https://live.radioistara.com/listen/radioistara/radioistara
+
 #EXTINF:-1 group-title="Radio 04. Mix Jatim" tvg-logo="",Radio Motion Malang
 https://mediacp-sg1.arenastreaming.com/stream/kalimaya
 
@@ -177,8 +183,8 @@ https://streaming.radiopatria.net/radio/8000/patria
 #EXTINF:-1 group-title="Radio 04. Mix Jatim" tvg-logo="",Radio Bahana FM Ngawi
 https://c3.siar.us/proxy/bahanafm/stream
 
-#EXTINF:-1 group-title="Radio 04. Mix Jatim" tvg-logo="",Radio Media Surabaya
-https://a.tunzilla.com/http://streaming.radiomediafm.com:8400/radio
+#EXTINF:-1 group-title="Radio 04. Mix Jatim" tvg-logo="",Radio Merdeka FM Surabaya
+https://azuracast.suzananet.com/listen/merdeka_fm/radio
 
 #EXTINF:-1 group-title="Radio 04. Mix Jatim" tvg-logo="",Radio Sritanjung FM Banyuwangi
 https://a3.alhastream.com:5115/radio
@@ -335,9 +341,6 @@ https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro1.mp3
 
 #EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",RRI Pro 2 Purwokerto
 https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro2.mp3
-
-#EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Darussalam Tegal
-https://a.tunzilla.com/http://uk14freenew.listen2myradio.com:18209/;
 
 #EXTINF:-1 group-title="Radio 07. Wilayah Ngapak" tvg-logo="",Radio Radesatama FM Banjarnegara
 https://stream.swadesifm.com/radio/8130/radio.mp3
