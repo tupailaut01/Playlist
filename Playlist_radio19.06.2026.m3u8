@@ -480,7 +480,7 @@ https://stream.zeno.fm/7ykrfcokte4tv
 #EXTINF:-1 group-title="Radio 11. Sumatra" tvg-logo="",Radio Sonora Palembang
 https://mediacp-sg2.arenastreaming.com:8004/stream
 
-#EXTINF:-1 group-title="Radio 11. Sumatra" tv-logo="",Pandawa Radio Tanjungpinang Kepri
+#EXTINF:-1 group-title="Radio 11. Sumatra" tvg-logo="",Radio Pandawa Tanjungpinang Kepri
 https://void.idserverhost.com/8042/stream
 
 #EXTINF:-1 group-title="Radio 11. Sumatra" tvg-logo="",Radio Maskara Jelita 106.7 FM Lampung
@@ -696,7 +696,7 @@ https://i.klikhost.com:9608/stream
 #EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio DNA FM Jepara
 https://sc.dnafm.net/listen/dnafm/live
 
-#EXTINF:-1 group-title="Radio Mixed" tv-logo="",Radio R-lisa FM Jepara
+#EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio R-lisa FM Jepara
 https://a4.siar.us/radio/8360/radio.mp3
 
 #EXTINF:-1 group-title="Radio Mixed" tvg-logo="",Radio MANEUVER Cilegon
